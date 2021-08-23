@@ -20,17 +20,17 @@ npm run cypress:open
 
 ## Estrutura do Projeto
 
-01 ├─ cypress
-02 |    ├─ fixtures
-03 |    ├─ integration
-04 |       └─ correios
-05 |    ├─ plugins     
-06 |       └─ index.js    
-07 |    ├─ support   
-08 |       ├─ commands.js
-09 |       ├─ constants.js
-10 |       ├─ index.js
-11 |       └─ locators.js
+    01 ├─ cypress
+    02 |    ├─ fixtures
+    03 |    ├─ integration
+    04 |       └─ correios
+    05 |    ├─ plugins     
+    06 |       └─ index.js    
+    07 |    ├─ support   
+    08 |       ├─ commands.js
+    09 |       ├─ constants.js
+    10 |       ├─ index.js
+    11 |       └─ locators.js
 
 ### Cypress
 ### Fixtures
