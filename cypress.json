@@ -1,0 +1,7 @@
+{
+    "baseUrl": "https://www.correios.com.br/",
+    "viewportWidth": 1536,
+    "viewportHeight": 960,
+    "chromeWebSecurity": false
+
+}

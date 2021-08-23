@@ -1,0 +1,19 @@
+{
+  "name": "db1-desafio-correios",
+  "version": "1.0.0",
+  "description": "Desafio Tecnico DB1 - Site dos correios",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cypress:open": "cypress open"
+  },
+  "keywords": [],
+  "author": "Larissa Targino Alves da Silva",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^8.3.0"
+  },
+  "devDependencies": {
+    "cypress-iframe": "^1.0.1"
+  }
+}
